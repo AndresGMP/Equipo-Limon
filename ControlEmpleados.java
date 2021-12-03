@@ -236,7 +236,9 @@ public class ControlEmpleados {
                     control = false;
                 }
         }while(control);
+        System.out.println("Aquí hice un cambio");
     }
+    
     /**
      * Método para eliminar un trabajador por medio de su id.
      */

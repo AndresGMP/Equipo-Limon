@@ -42,7 +42,7 @@ public class ControlEmpleados {
                 ModificarInfo();
                 break;
                 case 6:
-                System.out.println("-----------------------------\nSEE YOU LATER (∪.∪ )...zzz");
+                System.out.println("-----------------------------\nADIOS AMIGO (∪.∪ )...zzz");
                 control = false;
                 break;
             case 123:

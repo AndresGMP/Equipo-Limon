@@ -1,5 +1,5 @@
 package EquipoLimonEstructura.ABB;
-
+//ando queriendo probar algo
 public class Nodo {
     //CAMBIAR EL TIPO DE DATO
     protected Object dato;

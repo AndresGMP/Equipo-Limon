@@ -1,5 +1,5 @@
 # Proyecto-Limon
-##Tecnologico Nacional de México
+##Tecnologico-Nacional-de-México
 ##Instituto Tecnolgico de Ensenada
 **Estructura de datos**
 #Equipo Limón

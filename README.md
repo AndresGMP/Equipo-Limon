@@ -2,7 +2,7 @@
 
 # Proyecto-Limon 🍋
 ## Instituto Tecnolgico de Ensenada
-# Estructura de datos
+## Estructura de datos
 
 Integrantes:
 

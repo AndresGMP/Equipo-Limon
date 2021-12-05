@@ -11,4 +11,3 @@ Integrantes:
 >Millan Valenzuela Omar Adrian [@OmarAdrian]()
 >González Martínez Andrés [@AndrésGM](https://github.com/Andres-GMP)
 3/Dic/2021
-![image](https://user-images.githubusercontent.com/92224971/144761563-f5631414-65b2-4276-82f3-0e3e93df0bf8.png)
